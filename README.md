@@ -10,7 +10,7 @@ This project is already configured with https://github.com/JayantSingh97/Microso
 
 Vue.js Project Configuartion information.
 
-1- If you are facing any compilation issue then simply run the following command in you command prompt.
+1- If you are facing any compilation issue then simply run the following command in your command prompt.
 
 npm i
 
@@ -18,7 +18,7 @@ After executing the 'npm i' simply build the application and retry.
 
 Because for performance resion Github ignores the node_modules folder because it contains large amount of storage.
 
-
+npm i command creates new node_modules and restores all the project dependency.
 
 
 Thank you.

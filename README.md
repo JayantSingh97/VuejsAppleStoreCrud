@@ -10,7 +10,7 @@ This project is already configured with https://github.com/JayantSingh97/Microso
 
 Vue.js Project Configuartion information.
 
-1- If you are facing any compilation issue then simply run the following command in your command prompt.
+1- If you are facing any compilation issue then simply run the following command in your command prompt under your Vueapp directory.
 
 npm i
 

@@ -8,6 +8,11 @@ Microsoft visual studio latest version.
 
 This project is already configured with https://github.com/JayantSingh97/MicrosoftUnityDependencyInjectionApi APi.
 
+If you are facing any compilation issue in your API then simply delete the (VS) File in https://github.com/JayantSingh97/MicrosoftUnityDependencyInjectionApi Directory and reload your project in MSVS.
+
+
+
+
 Vue.js Project Configuartion information.
 
 1- If you are facing any compilation issue then simply run the following command in your command prompt under your Vueapp directory.
